@@ -1,0 +1,15 @@
+redis==5.0.7
+rq==1.16.2
+pyclamd==0.4.0
+yara-python==4.5.1
+eml-parser==1.17.0
+beautifulsoup4==4.12.3
+lxml==5.2.2
+idna==3.7
+dkimpy==1.1.7
+pyspf==2.0.14
+dnspython==2.6.1
+python-magic==0.4.27
+oletools==0.60.2
+pefile==2023.2.7
+pdfminer.six==20240706
